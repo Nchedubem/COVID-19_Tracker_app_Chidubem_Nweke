@@ -9,7 +9,7 @@
 }
 header, footer{
     text-align: center;
-    background-color: darkcyan;
+    background-color: #34e4e4;
     color: wheat;
 }
 .card{
@@ -57,3 +57,7 @@ header, footer{
     backdrop-filter: blur(3px);
     z-index: 1;
 }
+
+
+
+
